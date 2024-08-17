@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/amdocs/AmdocsSeleniumProject">
+        <classes>
+            <class name="ClassProject.Project2_4Debug">
+                <methods>
+                    <include name="demo"/>
+                    <include name="demo2"/>
+                    <include name="demo3"/>
+                    <include name="demo4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
