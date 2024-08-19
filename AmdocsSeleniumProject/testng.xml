@@ -7,8 +7,6 @@
                 <methods>
                     <include name="demo"/>
                     <include name="demo2"/>
-                    <include name="demo3"/>
-                    <include name="demo4"/>
                 </methods>
             </class>
         </classes>
